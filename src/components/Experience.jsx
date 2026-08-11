@@ -5,13 +5,13 @@ import './Experience.css';
 
 const experiences = [
   {
-    title: 'Video Editor',
+    title: 'AI Content Creator | AI Video Editor',
     company: 'Zeetech Pvt. Ltd.',
     period: 'Dec 2022 – Present',
     description: [
-      'Created high-quality Cash Cow videos for YouTube automation channels.',
-      'Produced daily short-form content (YouTube Shorts, Reels, TikTok).',
-      'Maintained consistent upload schedules with engaging editing styles.',
+      'Created AI-powered videos including AI avatars, clone videos, and faceless content.',
+      'Produced CashCow YouTube, Shorts, Reels, and automated video content for multiple platforms..',
+      'Developed AI ads, UGC-style videos, product ads, animations, and promotional creatives using modern AI tools and professional editing techniques.',
     ],
     current: true,
   },
@@ -48,18 +48,6 @@ const experiences = [
     ],
     current: false,
   },
-  {
-    title: 'AI Content Creator | AI Video Editor',
-    company: 'ZEETECH PVT. LTD.',
-    period: 'Dec 2022 – Present',
-    description: [
-      'Created AI-powered videos including AI avatars, clone videos, and faceless content.',
-      'Produced CashCow YouTube, Shorts, Reels, and automated video content for multiple platforms.',
-      'Developed AI ads, UGC-style videos, product ads, animations, and promotional creatives using modern AI tools and professional editing techniques.',
-    ],
-    current: false,
-  },
-  
 ];
 
 const Experience = () => {
