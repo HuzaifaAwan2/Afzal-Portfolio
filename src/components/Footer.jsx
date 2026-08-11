@@ -16,7 +16,7 @@ const Footer = () => {
               <span className="logo-text">R</span>
             </a>
             <p className="footer-tagline">
-              Crafting visual stories that leave a lasting impression.
+              Turning ideas into AI-powered videos and professional video edits that capture attention, tell stories, and help brands grow.
             </p>
           </div>
 
