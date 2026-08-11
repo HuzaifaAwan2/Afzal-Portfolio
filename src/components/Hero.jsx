@@ -34,14 +34,14 @@ const Hero = () => {
 
         <div className="hero-buttons">
           <a
-  href="/public/Muhammad_Afzaal_Rasheed_CV.pdf"
+  href="/Muhammad_Afzaal_Rasheed_CV.pdf"
   download="Muhammad_Afzaal_Rasheed_CV.pdf"
   className="btn-primary hoverable"
 >
   <span>⬇</span>
   Get My Resume
 </a>
-          <a href="https://github.com/HuzaifaAwan2/Afzal-Portfolio/blob/main/Muhammad_Afzaal_Rasheed_CV.pdf"  target="_blank" rel="noopener noreferrer" className="btn-outline hoverable">
+          <a href="https://drive.google.com/drive/folders/1PJiQNeinkW6dV4DoLZjNd-eexLnDtno-?usp=sharing"  target="_blank" rel="noopener noreferrer" className="btn-outline hoverable">
             <FaFolderOpen />
             View My Portfolio
           </a>
